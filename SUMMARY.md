@@ -6,4 +6,5 @@
     * [1.1.1 Elasticsearch](overview/1.1-elastic-stack/1.1.1-elasticsearch.md)
     * [1.1.2 Logstash](overview/1.1-elastic-stack/1.1.2-logstash.md)
     * [1.1.3 Kibana](overview/1.1-elastic-stack/1.1.3-kibana.md)
+    * [1.1.4 Beats](overview/1.1-elastic-stack/1.1.4-beats.md)
 
