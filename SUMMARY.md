@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Elastic 가이드 북](README.md)
 
