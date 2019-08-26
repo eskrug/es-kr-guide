@@ -6,7 +6,7 @@
 
 1. [서문](01-overview/)
 2. [Elasticsearch 시작하기](02-install/)
-3. Elasticsearch 시스템 구조
+3. [Elasticsearch 시스템 구조](03-cluster/)
 4. Elasticsearch 데이터 처리
 5. 검색 \(Search\)
 6. 텍스트 데이터 분석 \(Text Analysis\)
