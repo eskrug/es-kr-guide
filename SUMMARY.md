@@ -13,5 +13,9 @@
     * [2.2.1 다운로드 설치 및 실행](02-install/2.2/2.2.1.md)
     * [2.2.2 Unix RPM \(yum\) 으로 설치 및 실행](02-install/2.2/2.2.2-unix-rpm-yum.md)
     * [2.2.3 윈도우 운영체제에서 MSI 파일로 설치](02-install/2.2/2.2.3-msi.md)
-  * [2.3 elasticsearch 환경 설정](02-install/2.3-elasticsearch.md)
+  * [2.3 elasticsearch 환경 설정](02-install/2.3-elasticsearch/README.md)
+    * [2.3.1 jvm.options](02-install/2.3-elasticsearch/2.3.1-jvm.options.md)
+    * [2.3.2 elasticsearch.yml](02-install/2.3-elasticsearch/2.3.2-elasticsearch.yml.md)
+    * [2.3.3 노드의 역할 : master, data, ingest, ml](02-install/2.3-elasticsearch/2.3.3-master-data-ingest-ml.md)
+    * [2.3.4 커맨드 라인 설정](02-install/2.3-elasticsearch/2.3.4.md)
 
