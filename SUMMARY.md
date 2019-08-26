@@ -18,4 +18,6 @@
     * [2.3.2 elasticsearch.yml](02-install/2.3-elasticsearch/2.3.2-elasticsearch.yml.md)
     * [2.3.3 노드의 역할 : master, data, ingest, ml](02-install/2.3-elasticsearch/2.3.3-master-data-ingest-ml.md)
     * [2.3.4 커맨드 라인 설정](02-install/2.3-elasticsearch/2.3.4.md)
+* [3. 시스템 구조](03-cluster/README.md)
+  * [3.1 클러스터 구성](03-cluster/3.1.md)
 
