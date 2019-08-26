@@ -4,8 +4,8 @@
 
 ## 목차
 
-1. [서문](overview/)
-2. [Elasticsearch 시작하기](2.-install/)
+1. [서문](01-overview/)
+2. [Elasticsearch 시작하기](02-install/)
 3. Elasticsearch 시스템 구조
 4. Elasticsearch 데이터 처리
 5. 검색 \(Search\)
