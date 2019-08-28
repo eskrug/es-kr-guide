@@ -24,4 +24,5 @@
   * [3.3 마스터 노드와 데이터 노드](03-cluster/3.3-master-and-data-nodes.md)
 * [4. Elasticsearch 데이터 처리](04-data/README.md)
   * [4.1 REST API](04-data/4.1-rest-api.md)
+  * [4.2 CRUD \(입력, 조회, 수정, 삭제\)](04-data/4.2-crud.md)
 
