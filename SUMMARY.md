@@ -27,4 +27,6 @@
   * [4.2 CRUD \(입력, 조회, 수정, 삭제\)](04-data/4.2-crud.md)
   * [4.3 벌크 \(\_bulk\) API](04-data/4.3-_bulk.md)
   * [4.4 검색 \(\_search\) API](04-data/4.4-_search.md)
+* [5. 검색과 Query DSL](05-search/README.md)
+  * [5.1 풀 텍스트 \(Full Text\) 쿼리](05-search/5.1-query-dsl.md)
 
