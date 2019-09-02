@@ -29,4 +29,6 @@
   * [4.4 검색 \(\_search\) API](04-data/4.4-_search.md)
 * [5. 검색과 Query DSL](05-search/README.md)
   * [5.1 풀 텍스트 \(Full Text\) 쿼리](05-search/5.1-query-dsl.md)
+  * [5.2 bool 복합 쿼리](05-search/5.2-bool.md)
+  * [5.3 정확도 \(Relevancy\)](05-search/5.3-relevancy.md)
 
