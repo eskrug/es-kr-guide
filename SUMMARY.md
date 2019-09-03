@@ -34,6 +34,7 @@
   * [5.4 bool : should 쿼리](05-search/5.4-keyword.md)
   * [5.5 정확값\(Exact Value\) 쿼리](05-search/5.5-exact-value.md)
   * [5.6 범위 \(range\) 쿼리](05-search/5.6-range.md)
-* [6. 텍스트 분석 \(Text Analysis\)](06-text-analysis/README.md)
-  * [6.1 데이터 색인 \(Indexing Data\)](06-text-analysis/6.1-indexing-data.md)
+* [6. 데이터 색인과 텍스트 분석](06-text-analysis/README.md)
+  * [6.1 역 인덱스 \(Inverted Index\)](06-text-analysis/6.1-indexing-data.md)
+  * [6.2 텍스트 분석 \(Text Analysis\)](06-text-analysis/6.2-text-analysis.md)
 
