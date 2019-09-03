@@ -9,7 +9,7 @@
 3. [Elasticsearch 시스템 구조](03-cluster/)
 4. [Elasticsearch 데이터 처리](04-data/)
 5. [검색과 Query DSL](05-search/)
-6. 텍스트 데이터 분석 \(Text Analysis\)
+6. [텍스트 분석 \(Text Analysis\)](06-text-analysis/)
 7. 인덱스 설정과 매핑 \(Settings & Mappings\)
 8. 집계 \(Aggregations\)
 
