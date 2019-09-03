@@ -31,4 +31,7 @@
   * [5.1 풀 텍스트 \(Full Text\) 쿼리](05-search/5.1-query-dsl.md)
   * [5.2 bool 복합 쿼리](05-search/5.2-bool.md)
   * [5.3 정확도 \(Relevancy\)](05-search/5.3-relevancy.md)
+  * [5.4 bool : should 쿼리](05-search/5.4-keyword.md)
+  * [5.5 정확값\(Exact Value\) 쿼리](05-search/5.5-exact-value.md)
+  * [5.6 범위 \(range\) 쿼리](05-search/5.6-range.md)
 
