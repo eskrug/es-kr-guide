@@ -37,6 +37,8 @@
 * [6. 데이터 색인과 텍스트 분석](06-text-analysis/README.md)
   * [6.1 역 인덱스 \(Inverted Index\)](06-text-analysis/6.1-indexing-data.md)
   * [6.2 텍스트 분석 \(Text Analysis\)](06-text-analysis/6.2-text-analysis.md)
-  * [6.3 애널라이저 \(Analyzer\)](06-text-analysis/6.3-analyzer.md)
-  * [6.4 사용자 정의 애널라이저 \(Custom Analyzer\)](06-text-analysis/6.4-custom-analyzer.md)
+  * [6.3 애널라이저 \(Analyzer\)](06-text-analysis/6.3-analyzer-1/README.md)
+    * [6.3.1 \_analyze API](06-text-analysis/6.3-analyzer-1/6.3-analyzer.md)
+    * [6.3.2 Term 쿼리](06-text-analysis/6.3-analyzer-1/6.3.1-term.md)
+    * [6.3.3 사용자 정의 애널라이저 \(Custom Analyzer\)](06-text-analysis/6.3-analyzer-1/6.4-custom-analyzer.md)
 
