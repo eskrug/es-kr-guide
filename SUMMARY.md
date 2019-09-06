@@ -41,4 +41,5 @@
     * [6.3.1 \_analyze API](06-text-analysis/6.3-analyzer-1/6.3-analyzer.md)
     * [6.3.2 Term 쿼리](06-text-analysis/6.3-analyzer-1/6.3.1-term.md)
     * [6.3.3 사용자 정의 애널라이저 \(Custom Analyzer\)](06-text-analysis/6.3-analyzer-1/6.4-custom-analyzer.md)
+    * [6.4.1 \_termvectors API](06-text-analysis/6.3-analyzer-1/6.4.1-_termvectors-api.md)
 
