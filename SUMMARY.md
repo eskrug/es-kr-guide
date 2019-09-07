@@ -42,4 +42,7 @@
     * [6.3.2 Term 쿼리](06-text-analysis/6.3-analyzer-1/6.3.1-term.md)
     * [6.3.3 사용자 정의 애널라이저 \(Custom Analyzer\)](06-text-analysis/6.3-analyzer-1/6.4-custom-analyzer.md)
     * [6.4.1 \_termvectors API](06-text-analysis/6.3-analyzer-1/6.4.1-_termvectors-api.md)
+  * [6.4 캐릭터 필터 \(Character Filter\)](06-text-analysis/6.4-character-filter/README.md)
+    * [6.4.1 HTML Strip](06-text-analysis/6.4-character-filter/6.4.1-html-strip.md)
+    * [6.4.2 Mapping](06-text-analysis/6.4-character-filter/6.4.2-mapping.md)
 
