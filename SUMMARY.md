@@ -45,4 +45,5 @@
   * [6.4 캐릭터 필터 \(Character Filter\)](06-text-analysis/6.4-character-filter/README.md)
     * [6.4.1 HTML Strip](06-text-analysis/6.4-character-filter/6.4.1-html-strip.md)
     * [6.4.2 Mapping](06-text-analysis/6.4-character-filter/6.4.2-mapping.md)
+    * [6.4.3 Pattern Replace](06-text-analysis/6.4-character-filter/6.4.3-pattern-replace.md)
 
