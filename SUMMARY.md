@@ -48,4 +48,7 @@
     * [6.4.3 Pattern Replace](06-text-analysis/6.4-character-filter/6.4.3-pattern-replace.md)
   * [6.5 토크나이저 \(Tokenizer\)](06-text-analysis/6.5-tokenizer/README.md)
     * [6.5.1 Standard, Letter, Whitespace](06-text-analysis/6.5-tokenizer/6.5.1-standard-letter-whitespace.md)
+    * [6.5.2 UAX URL Email](06-text-analysis/6.5-tokenizer/6.5.2-uax-url-email.md)
+    * [6.5.3 Pattern](06-text-analysis/6.5-tokenizer/6.5.3-pattern.md)
+    * [6.5.4 Path Hierarchy](06-text-analysis/6.5-tokenizer/6.5.4-path-hierarchy.md)
 
