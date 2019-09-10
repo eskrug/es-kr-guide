@@ -51,4 +51,7 @@
     * [6.5.2 UAX URL Email](06-text-analysis/6.5-tokenizer/6.5.2-uax-url-email.md)
     * [6.5.3 Pattern](06-text-analysis/6.5-tokenizer/6.5.3-pattern.md)
     * [6.5.4 Path Hierarchy](06-text-analysis/6.5-tokenizer/6.5.4-path-hierarchy.md)
+  * [6.6 토큰 필터 \(Token Filter\)](06-text-analysis/6.6-token-filter/README.md)
+    * [6.6.1 Lowercase, Uppercase](06-text-analysis/6.6-token-filter/6.6.1-lowercase-uppercase.md)
+    * [6.6.2 Stop](06-text-analysis/6.6-token-filter/6.6.2-stop.md)
 
