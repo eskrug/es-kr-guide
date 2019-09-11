@@ -54,4 +54,5 @@
   * [6.6 토큰 필터 \(Token Filter\)](06-text-analysis/6.6-token-filter/README.md)
     * [6.6.1 Lowercase, Uppercase](06-text-analysis/6.6-token-filter/6.6.1-lowercase-uppercase.md)
     * [6.6.2 Stop](06-text-analysis/6.6-token-filter/6.6.2-stop.md)
+    * [6.6.3 Synonym](06-text-analysis/6.6-token-filter/6.6.3-synonym.md)
 
