@@ -56,4 +56,8 @@
     * [6.6.2 Stop](06-text-analysis/6.6-token-filter/6.6.2-stop.md)
     * [6.6.3 Synonym](06-text-analysis/6.6-token-filter/6.6.3-synonym.md)
     * [6.6.4 NGram, Edge NGram, Shingle](06-text-analysis/6.6-token-filter/6.6.4-ngram-edge-ngram-shingle.md)
+    * [6.6.5 Unique](06-text-analysis/6.6-token-filter/6.6.5-unique.md)
+  * [6.7 형태소 분석 \(Stemming\)](06-text-analysis/6.7-stemming/README.md)
+    * [6.7.1 Snowball](06-text-analysis/6.7-stemming/6.7.1-snowball.md)
+    * [6.7.2 Nori 노리 한글 형태소 분석기](06-text-analysis/6.7-stemming/6.7.2-nori.md)
 
