@@ -10,7 +10,7 @@
 4. [Elasticsearch 데이터 처리](04-data/)
 5. [검색과 Query DSL](05-search/)
 6. [데이터 색인과 텍스트 분석](06-text-analysis/)
-7. 인덱스 설정과 매핑 \(Settings & Mappings\)
+7. [인덱스 설정과 매핑 \(Settings & Mappings\)](7.-settings-and-mappings/)
 8. 집계 \(Aggregations\)
 
 {% hint style="info" %}
