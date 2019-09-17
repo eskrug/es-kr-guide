@@ -60,4 +60,6 @@
   * [6.7 형태소 분석 \(Stemming\)](06-text-analysis/6.7-stemming/README.md)
     * [6.7.1 Snowball](06-text-analysis/6.7-stemming/6.7.1-snowball.md)
     * [6.7.2 Nori 노리 한글 형태소 분석기](06-text-analysis/6.7-stemming/6.7.2-nori.md)
+* [7. 인덱스 설정과 매핑 \(Settings & Mappings\)](7.-settings-and-mappings/README.md)
+  * [7.1 설정 \(Settings\)](7.-settings-and-mappings/7.1-settings.md)
 
