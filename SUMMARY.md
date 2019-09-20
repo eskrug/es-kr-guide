@@ -63,6 +63,7 @@
 * [7. 인덱스 설정과 매핑 \(Settings & Mappings\)](7.-settings-and-mappings/README.md)
   * [7.1 설정 \(Settings\)](7.-settings-and-mappings/7.1-settings.md)
   * [7.2 매핑 \(Mappings\)](7.-settings-and-mappings/7.2-mappings/README.md)
-    * [7.2.1 문자열](7.-settings-and-mappings/7.2-mappings/7.2.1.md)
-    * [7.2.2 숫자](7.-settings-and-mappings/7.2-mappings/7.2.2.md)
+    * [7.2.1 문자열 \(text, keyword\)](7.-settings-and-mappings/7.2-mappings/7.2.1.md)
+    * [7.2.2 숫자 \(long, double ...\)](7.-settings-and-mappings/7.2-mappings/7.2.2.md)
+    * [7.2.3 날짜 \(date\)](7.-settings-and-mappings/7.2-mappings/7.2.3-date.md)
 
