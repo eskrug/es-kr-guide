@@ -66,4 +66,6 @@
     * [7.2.1 문자열 \(text, keyword\)](7.-settings-and-mappings/7.2-mappings/7.2.1.md)
     * [7.2.2 숫자 \(long, double ...\)](7.-settings-and-mappings/7.2-mappings/7.2.2.md)
     * [7.2.3 날짜 \(date\)](7.-settings-and-mappings/7.2-mappings/7.2.3-date.md)
+    * [7.2.4 불리언 \(Boolean\)](7.-settings-and-mappings/7.2-mappings/7.2.4-boolean.md)
+    * [7.2.5 Object 와 Nested](7.-settings-and-mappings/7.2-mappings/7.2.5-object-nested.md)
 
