@@ -68,4 +68,5 @@
     * [7.2.3 날짜 \(date\)](7.-settings-and-mappings/7.2-mappings/7.2.3-date.md)
     * [7.2.4 불리언 \(Boolean\)](7.-settings-and-mappings/7.2-mappings/7.2.4-boolean.md)
     * [7.2.5 Object 와 Nested](7.-settings-and-mappings/7.2-mappings/7.2.5-object-nested.md)
+    * [7.2.6 위치 정보 \(Geo\)](7.-settings-and-mappings/7.2-mappings/7.2.6-geo.md)
 
