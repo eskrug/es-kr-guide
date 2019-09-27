@@ -11,7 +11,7 @@
 5. [검색과 Query DSL](05-search/)
 6. [데이터 색인과 텍스트 분석](06-text-analysis/)
 7. [인덱스 설정과 매핑 \(Settings & Mappings\)](7.-settings-and-mappings/)
-8. [집계 \(Aggregations\)](8.-aggregations.md)
+8. [집계 \(Aggregations\)](8.-aggregations/)
 
 {% hint style="info" %}
   이 가이드북에 있는 대부분의 내용은 [Elastic 공식 도큐먼트](https://www.elastic.co/guide/index.html)를 참고하여 작성되었습니다.

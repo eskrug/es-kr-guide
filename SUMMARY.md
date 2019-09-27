@@ -71,5 +71,6 @@
     * [7.2.6 위치 정보 \(Geo\)](7.-settings-and-mappings/7.2-mappings/7.2.6-geo.md)
     * [7.2.7 기타 필드 타입 \(IP, Range, Binary\)](7.-settings-and-mappings/7.2-mappings/7.2.7-ip-range-binary.md)
   * [7.3 멀티 필드 \(Multi Field\)](7.-settings-and-mappings/7.3-multi-field.md)
-* [8. 집계 \(Aggregations\)](8.-aggregations.md)
+* [8. 집계 \(Aggregations\)](8.-aggregations/README.md)
+  * [8.1 Metrics Aggregations](8.-aggregations/8.1-metrics-aggregations.md)
 
