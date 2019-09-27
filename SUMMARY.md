@@ -72,5 +72,6 @@
     * [7.2.7 기타 필드 타입 \(IP, Range, Binary\)](7.-settings-and-mappings/7.2-mappings/7.2.7-ip-range-binary.md)
   * [7.3 멀티 필드 \(Multi Field\)](7.-settings-and-mappings/7.3-multi-field.md)
 * [8. 집계 \(Aggregations\)](8.-aggregations/README.md)
-  * [8.1 Metrics Aggregations](8.-aggregations/8.1-metrics-aggregations.md)
+  * [8.1 메트릭 - Metrics Aggregations](8.-aggregations/8.1-metrics-aggregations.md)
+  * [8.2 버킷 - Bucket Aggregations](8.-aggregations/8.2-bucket-aggregations.md)
 
