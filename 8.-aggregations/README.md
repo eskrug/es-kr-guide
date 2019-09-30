@@ -10,7 +10,7 @@ description: >-
 
 ![Kibana &#xD654;&#xBA74; - &#xCD9C;&#xCC98;: https://www.elastic.co/products/kibana](../.gitbook/assets/08-01.png)
 
-  Aggregation 은 번역하면 "집계" 라는 뜻 이지만 Elasticsearch 의 기능명 이기 때문에 보통 Elastic Stack 관련 세미나 또는 블로그 포스트에서는 원문대로 **aggregation** 혹은 **애그리게이션** 으로 많이 표현합니다. 이 책에서도 **Aggregation** 으로 표현하도록 하겠습니다.
+  Aggregation 은 번역하면 "집계" 라는 뜻 이지만 Elasticsearch 의 기능명 이기 때문에 보통 Elastic Stack 관련 세미나 또는 블로그 포스트에서는 원문대로 **aggregation** 혹은 **애그리게이션** 으로 많이 표현합니다. 이 책에서도 **aggregation** 또는 **aggs** 로 표현하도록 하겠습니다.
 
   Aggregation 의 사용 방법은 다음과 같습니다. **\_search API** 에서 query 문과 같은 수준에 지정자 `aggregations` 또는 `aggs`를 명시하고 그 아래 임의의 aggregation 이름을 입력한 뒤 사용할 aggregation 종류와 옵션들을 명시합니다. 한번의 쿼리로 aggregation 여러 개를 입력할 수도 있습니다. 아래는 aggregation을 입력하는 예제입니다.
 
