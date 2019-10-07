@@ -74,4 +74,6 @@
 * [8. 집계 \(Aggregations\)](8.-aggregations/README.md)
   * [8.1 메트릭 - Metrics Aggregations](8.-aggregations/8.1-metrics-aggregations.md)
   * [8.2 버킷 - Bucket Aggregations](8.-aggregations/8.2-bucket-aggregations.md)
+  * [8.3 하위 Aggregations](8.-aggregations/8.3-aggregations.md)
+  * [8.4 파이프라인 - Pipeline Aggregations](8.-aggregations/8.4-pipeline-aggregations.md)
 
