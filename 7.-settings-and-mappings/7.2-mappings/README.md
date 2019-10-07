@@ -4,7 +4,7 @@ description: >-
   김종민(kimjmin@gmail.com)에게 사용 내용을 알려주시기 바랍니다.
 ---
 
-# 7.2 매핑 \(Mappings\)
+# 7.2 매핑 - Mappings
 
 ### 동적\(Dynamic\) 매핑
 

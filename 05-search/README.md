@@ -4,7 +4,7 @@ description: >-
   김종민(kimjmin@gmail.com)에게 사용 내용을 알려주시기 바랍니다.
 ---
 
-# 5. 검색과 Query DSL
+# 5. 검색과 쿼리 -  Query DSL
 
   이번 장은 Elasticsearch의 검색 기능에 대한 전반적인 내용을 모두 설명합니다. 내용이 많지만 Elasticsearch의 동작을 이해하는 데에 중요한 부분이기 때문에 차근차근 읽으면서 잘 숙지하시기 바랍니다.
 
