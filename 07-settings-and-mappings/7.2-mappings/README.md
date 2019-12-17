@@ -10,8 +10,7 @@ description: >-
 
   Elasticsearch 를 활용하면서 가장 손이 많이 가는 작업이 매핑 설정입니다. Elasticsearch 는 동적 매핑을 지원하기 때문에 미리 정의하지 않아도 인덱스에 도큐먼트를 새로 추가하면 자동으로 매핑이 생성됩니다. 인덱스가 없는 상태에서 다음의 도큐먼트를 **books** 인덱스에 입력 해 보겠습니다.
 
-{% code-tabs %}
-{% code-tabs-item title="books 인덱스가 없는 상태에서 도큐먼트 입력" %}
+{% code title="books 인덱스가 없는 상태에서 도큐먼트 입력" %}
 ```javascript
 PUT books/_doc/1
 {
@@ -22,25 +21,21 @@ PUT books/_doc/1
   "pages": 125
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
   books 인덱스의 매핑을 확인 해 보면 각 필드의 매핑이 자동으로 생성된 것을 확인할 수 있습니다.
 
 {% tabs %}
 {% tab title="request" %}
-{% code-tabs %}
-{% code-tabs-item title="books 인덱스의 매핑 확인" %}
+{% code title="books 인덱스의 매핑 확인" %}
 ```javascript
 GET books/_mapping
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 {% endtab %}
 
 {% tab title="response" %}
-{% code-tabs %}
-{% code-tabs-item title="books 인덱스의 매핑 확인 결과" %}
+{% code title="books 인덱스의 매핑 확인 결과" %}
 ```javascript
 {
   "books" : {
@@ -84,8 +79,7 @@ GET books/_mapping
   }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 
@@ -97,8 +91,7 @@ GET books/_mapping
 
   데이터가 입력되어 자동으로 매핑이 생성되기 전에 미리 먼저 인덱스의 매핑을 정의 해 놓으면 정의 해 놓은 매핑에 맞추어 데이터가 입력됩니다. 매핑은 다음과 같이 선언합니다.
 
-{% code-tabs %}
-{% code-tabs-item title="인덱스의 매핑 정의" %}
+{% code title="인덱스의 매핑 정의" %}
 ```javascript
 PUT <인덱스명>
 {
@@ -113,13 +106,11 @@ PUT <인덱스명>
   }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
   이미 만들어진 매핑에 필드를 추가하는것은 가능합니다. 하지만 이미 만들어진 필드를 삭제하거나 필드의 타입 및 설정값을 변경하는 것은 불가능합니다. 필드의 변경이 필요한 경우 인덱스를 새로 정의하고 기존 인덱스의 값을 새 인덱스에 모두 재색인 해야 합니다. 이미 생성된 인덱스에 새로운 필드를 추가 할 때는 다음과 같이 합니다.
 
-{% code-tabs %}
-{% code-tabs-item title="기존 매핑에 필드 추가" %}
+{% code title="기존 매핑에 필드 추가" %}
 ```javascript
 PUT <인덱스명>/_mapping
 {
@@ -131,8 +122,7 @@ PUT <인덱스명>/_mapping
   }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 {% hint style="danger" %}
 이 때 추가할 필드명이 기존 필드와 중복되는 이름이면 오류가 발생합니다.
@@ -142,8 +132,7 @@ PUT <인덱스명>/_mapping
 
   인덱스에 데이터가 입력될 때 기존 매핑에 정의되지 않은 필드가 도큐먼트에 있으면 필드가 자동으로 추가됩니다. **books** 인덱스에서 **page** 필드는 **byte**, **title** 필드는 **text**, **category** 필드는 **keyword** 로 선언하고 위의 첫 예제와 동일한 도큐먼트를 입력한 뒤 필드 내용을 확인해 보겠습니다.
 
-{% code-tabs %}
-{% code-tabs-item title="books 인덱스 매핑에 category, pages, title 필드 정의" %}
+{% code title="books 인덱스 매핑에 category, pages, title 필드 정의" %}
 ```javascript
 PUT books
 {
@@ -162,11 +151,9 @@ PUT books
   }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
-{% code-tabs %}
-{% code-tabs-item title="books 인덱스에 도큐먼트 입력" %}
+{% code title="books 인덱스에 도큐먼트 입력" %}
 ```javascript
 PUT books/_doc/1
 {
@@ -177,23 +164,19 @@ PUT books/_doc/1
   "pages": 125
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 {% tabs %}
 {% tab title="request" %}
-{% code-tabs %}
-{% code-tabs-item title="books 인덱스의 매핑 확인" %}
+{% code title="books 인덱스의 매핑 확인" %}
 ```javascript
 GET books/_mapping
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 {% endtab %}
 
 {% tab title="response" %}
-{% code-tabs %}
-{% code-tabs-item title="books 인덱스의 매핑 확인 결과" %}
+{% code title="books 인덱스의 매핑 확인 결과" %}
 ```javascript
 {
   "books" : {
@@ -225,8 +208,7 @@ GET books/_mapping
   }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 

@@ -16,8 +16,7 @@ description: >-
 
 {% tabs %}
 {% tab title="request" %}
-{% code-tabs %}
-{% code-tabs-item title="aggregations 입력" %}
+{% code title="aggregations 입력" %}
 ```javascript
 GET <인덱스명>/_search
 {
@@ -38,13 +37,11 @@ GET <인덱스명>/_search
   }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 {% endtab %}
 
 {% tab title="response" %}
-{% code-tabs %}
-{% code-tabs-item title="aggregations 입력 결과" %}
+{% code title="aggregations 입력 결과" %}
 ```javascript
 {
   "hits": {
@@ -60,8 +57,7 @@ GET <인덱스명>/_search
   }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 
@@ -69,8 +65,7 @@ GET <인덱스명>/_search
 
   다음에 주로 사용되는 **Metrics** 와 **Bucket** Aggregations 들을 설명하기 위해 아래의 데이터를 먼저 **my\_stations** 인덱스에 입력하도록 하겠습니다. 처음 한 줄을 카피 해서 필드명은 그대로 두고 필드값만 수정하면 약간 더 수월하게 입력할 수 있습니다.
 
-{% code-tabs %}
-{% code-tabs-item title="테스트를 위한 my\_stations 인덱스에 데이터 입력" %}
+{% code title="테스트를 위한 my\_stations 인덱스에 데이터 입력" %}
 ```javascript
 PUT my_stations/_bulk
 {"index": {"_id": "1"}}
@@ -95,6 +90,5 @@ PUT my_stations/_bulk
 {"date": "2019-10-01", "line": "3호선", "station": "불광", "passangers": 971}
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
